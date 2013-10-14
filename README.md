@@ -1,4 +1,4 @@
 dynaship
 ========
 
-Ship ship, arf arf .oOOOo
+Ship ship, arf arf .oOOOo_/
